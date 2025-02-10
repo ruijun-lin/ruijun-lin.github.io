@@ -1,0 +1,83 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Ruijun LIN - MATH</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | Ruijun LIN - MATH</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2025 12:04:44 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Miscellaneous</title>
+    <link>http://localhost:1313/miscellaneous/</link>
+    <pubDate>Sat, 08 Feb 2025 12:04:44 &#43;0800</pubDate>
+    <author>Ruijun Lin</author>
+    <guid>http://localhost:1313/miscellaneous/</guid>
+    <description><![CDATA[<h1 id="hobbies">Hobbies</h1>
+<h2 id="music">Music</h2>
+<p>Music is a part of my life. I learned erhu (a kind of Chinese traditional instrument) in my childhood and began to learn to play the piano after graduating from the senior high school. I love both of them, and my favorite types of music are classical music, new age and Chinese traditional music.</p>
+<p>The following is my latest piano cover <em>Sun and Dew</em> composed by my piano teacher Jianyang Wu, who is also a composer. I record this video in honor of him.</p>]]></description>
+</item>
+<item>
+    <title>Work and Thinking</title>
+    <link>http://localhost:1313/work_thinking/</link>
+    <pubDate>Sat, 08 Feb 2025 00:41:23 &#43;0800</pubDate>
+    <author>Ruijun Lin</author>
+    <guid>http://localhost:1313/work_thinking/</guid>
+    <description><![CDATA[<p>This page contains data related to mathematics from myself and my instructors.</p>
+<h2 id="theses">Theses</h2>
+<h3 id="graduate-thesis">Graduate Thesis</h3>
+<p>(supervised by Professor Søren Eilers)</p>
+<p><strong>Thesis</strong>: <a href="/Graduate_thesis/thesis_C-star-algebras_of_Left_Cancellative_Small_Categories_with_Garside_Families.pdf" rel="">C*-algebras of Left Cancellative Small Categories with Garside Families</a>
+.</p>
+<p>Presentation Slides:</p>
+<p>Full version: <a href="/Graduate_thesis/presentation_CALCSCG.pdf" rel="">C*ALCSCG Presentation (full)</a>
+;</p>
+<p>Brief version: <a href="/Graduate_thesis/short_presentation_CALCSCG.pdf" rel="">C*ALCSCG Presentation (brief)</a>
+.</p>
+<h3 id="undergraduate-thesis">Undergraduate Thesis</h3>
+<p>(supervised by Associate Professor Bochen Liu)</p>
+<p><strong>Thesis</strong>: <a href="/Undergraduate_thesis/thesis_Harmonic_analysis_and_Hausdorff_dimension.pdf" rel="">Harmonic Analysis and Hausdorff Dimension</a>
+;</p>
+<p>Presentation Slides: <a href="/Undergraduate_thesis/presentation_HAHD.pdf" rel="">HAHD Presentation</a>
+.</p>
+<h2 id="notes">Notes</h2>
+<h3 id="notes-on-the-categorical-origins-of-lebesgue-integration-by-tom-leinsterhttpswwwmathsedacuktl-handwritten">Notes on <em>The Categorical Origins of Lebesgue Integration</em> by <a href="https://www.maths.ed.ac.uk/~tl/" target="_blank" rel="noopener noreffer">Tom Leinster</a>
+ (Handwritten)</h3>
+<h5 id="handwritten-notes-notes-on-the-categorical-origins-of-lebesgue-integrationnotes_the_categorical_origins_of_lebesgue_integrationpdf">Handwritten notes: <a href="/Notes_The_categorical_origins_of_Lebesgue_integration.pdf" rel="">Notes on The Categorical Origins of Lebesgue Integration</a>
+</h5>
+<h5 id="original-paper-a-categorical-derivation-of-lebesgue-integrationhttpsarxivorgpdf201100412pdf">Original Paper: <a href="https://arxiv.org/pdf/2011.00412.pdf" target="_blank" rel="noopener noreffer"><em>A categorical derivation of Lebesgue integration</em></a>
+</h5>
+<h3 id="notes-on-fourier-analysis-an-introduction-by-stein-and-shakarchi-with-partial-solutions-handwritten">Notes on <em>Fourier Analysis, an Introduction</em> by Stein and Shakarchi with partial solutions (Handwritten)</h3>
+<h4 id="handwritten-notes">Handwritten notes:</h4>
+<p><a href="/Fourier_Analysis_Stein/My_handwritten_notes/Notes_%281%29.pdf" rel="">Fourier Analysis Notes 1</a>
+</p>]]></description>
+</item>
+<item>
+    <title>Connections between topological and categorical limits</title>
+    <link>http://localhost:1313/connections_topological_and_categorical_limits/</link>
+    <pubDate>Fri, 07 Feb 2025 00:11:51 &#43;0800</pubDate>
+    <author>Ruijun Lin</author>
+    <guid>http://localhost:1313/connections_topological_and_categorical_limits/</guid>
+    <description><![CDATA[<p>The definitions of a filter and its related concepts are from Tai-Danae Bradley, Tyler Bryson, and John Terilla, <em>Topology: A Categorical Approach</em>.</p>
+<blockquote>
+<p><strong>Definition.</strong> (filter) A <strong>filter</strong> on a set $X$ is a collection $\mathcal{F}$ that is
+(i) downward directed: $A,B\in \mathcal{F}$ implies there exists $C\in \mathcal{F}$ such that $C\subseteq A\cap B$,
+(ii) nonempty: $\mathcal{F} \neq \varnothing$,
+(iii) upward closed: $A\in \mathcal{F}$ and $A\subseteq B$ implies $B\in \mathcal{F}$.
+An additional property is often useful:
+(iv) proper: there exists $A\subseteq X$ such that $A\notin \mathcal{F}$.</p>]]></description>
+</item>
+<item>
+    <title>About me</title>
+    <link>http://localhost:1313/about_me/</link>
+    <pubDate>Tue, 04 Feb 2025 17:11:26 &#43;0800</pubDate>
+    <author>Ruijun Lin</author>
+    <guid>http://localhost:1313/about_me/</guid>
+    <description><![CDATA[<p>I am a second-year master&rsquo;s student in mathematics and just graduated from the <a href="https://www.ku.dk/english/" target="_blank" rel="noopener noreffer">University of Copenhagen</a>
+ in June, 2023. My interests are operator algebra, harmonic analysis and related topics.</p>
+<p>My graduate thesis supervisor as well as academic advisor is <a href="http://web.math.ku.dk/~eilers/" target="_blank" rel="noopener noreffer">Søren Eilers</a>
+, whose research interest lies mainly in operator algebra and functional analysis, especially graph C*-algebras, classification of C*-algebras, and K-theory for operator algebras related with them.</p>
+<p>My bachelor&rsquo;s degree was awarded at <a href="https://www.sustech.edu.cn/en/" target="_blank" rel="noopener noreffer">Southern University of Science and Technology</a>
+, Shenzhen China. My undergraduate academic advisor was <a href="https://yifeizhu.github.io/" target="_blank" rel="noopener noreffer">Yifei Zhu</a>
+, whose research interests are algebraic topology and related fields, particularly in its connections to algebraic geometry and number theory via objects such as formal groups, elliptic curves, and modular forms. Currently he is also discussing topics in computational topology and topological data analysis. My undergraduate thesis supervisor was <a href="http://www.sustech.edu.cn/en/faculties/liubochen.html" target="_blank" rel="noopener noreffer">Bochen Liu</a>
+, whose research interests are harmonic analysis, geometric measure theory and combinatorics.</p>]]></description>
+</item>
+</channel>
+</rss>

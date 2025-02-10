@@ -1,0 +1,82 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LIN Rujun - MATH</title>
+        <link>http://localhost:1313/zh-cn/</link>
+        <description>This is my space</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 10 Feb 2025 00:17:24 &#43;0800</lastBuildDate>
+            <atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>业余涉猎</title>
+    <link>http://localhost:1313/zh-cn/miscellaneous/</link>
+    <pubDate>Mon, 10 Feb 2025 00:17:24 &#43;0800</pubDate>
+    <author>LIN Ruijun</author>
+    <guid>http://localhost:1313/zh-cn/miscellaneous/</guid>
+    <description><![CDATA[<h1 id="兴趣爱好">兴趣爱好</h1>
+<h2 id="音乐">音乐</h2>
+<p>音乐是我生活中的一部分。我在童年时期学习了二胡，高中毕业后开始学习钢琴；喜欢的音乐类型包括古典音乐、新世纪音乐和中国传统民族音乐。</p>
+<ul>
+<li>这是我钢琴老师吴建阳写的一首钢琴小品《阳光雨露》，由我弹奏。</li>
+</ul>
+<div style="text-align: center;">
+<video src="/music/piano_Sun_and_Dew.MP4" controls style="width: 60%; height: auto; max-width: 640px; max-height: 360px;">
+  您的浏览器不支持播放此视频。
+</video>
+</div>
+<ul>
+<li>以下是我自己演奏的钢琴曲《In the Morning Light（在晨光中）》，由雅尼作曲；这是第一首我自己练习学会的曲子。</li>
+</ul>
+<div style="text-align: center;">
+<video src="/music/piano_In_the_Morning_Light.MP4" controls style="width: 60%; height: auto; max-width: 640px; max-height: 360px;">
+  您的浏览器不支持播放此视频。
+</video>
+</div>
+<h2 id="铁路基础设施">铁路基础设施</h2>
+<p>我对中国和世界的铁路交通信息较为关注，特别是国内已有、在建和规划中的高铁和地铁线路。</p>]]></description>
+</item>
+<item>
+    <title>关于我</title>
+    <link>http://localhost:1313/zh-cn/about_me/</link>
+    <pubDate>Sun, 09 Feb 2025 23:53:57 &#43;0800</pubDate>
+    <author>LIN Ruijun</author>
+    <guid>http://localhost:1313/zh-cn/about_me/</guid>
+    <description><![CDATA[<p><a href="https://www.ku.dk/english/" target="_blank" rel="noopener noreffer">哥本哈根大学</a>
+数学专业的二年级硕士研究生（2023年6月毕业），<a href="https://www.sustech.edu.cn/" target="_blank" rel="noopener noreffer">南方科技大学</a>
+本科生（2021年6月毕业）；感兴趣领域包括算子代数、调和分析以及相关话题。</p>]]></description>
+</item>
+<item>
+    <title>Work and Thinking</title>
+    <link>http://localhost:1313/zh-cn/work_thinking/</link>
+    <pubDate>Sat, 08 Feb 2025 00:41:23 &#43;0800</pubDate>
+    <author>Ruijun Lin</author>
+    <guid>http://localhost:1313/zh-cn/work_thinking/</guid>
+    <description><![CDATA[<p>This page contains data related to mathematics from myself and my instructors.</p>
+<h2 id="theses">Theses</h2>
+<h3 id="graduate-thesis">Graduate Thesis</h3>
+<p>(supervised by Professor Søren Eilers)</p>
+<p><strong>Thesis</strong>: <a href="/Graduate_thesis/thesis_C-star-algebras_of_Left_Cancellative_Small_Categories_with_Garside_Families.pdf" rel="">C*-algebras of Left Cancellative Small Categories with Garside Families</a>
+.</p>
+<p>Presentation Slides:</p>
+<p>Full version: <a href="/Graduate_thesis/presentation_CALCSCG.pdf" rel="">C*ALCSCG Presentation (full)</a>
+;</p>
+<p>Brief version: <a href="/Graduate_thesis/short_presentation_CALCSCG.pdf" rel="">C*ALCSCG Presentation (brief)</a>
+.</p>
+<h3 id="undergraduate-thesis">Undergraduate Thesis</h3>
+<p>(supervised by Associate Professor Bochen Liu)</p>
+<p><strong>Thesis</strong>: <a href="/Undergraduate_thesis/thesis_Harmonic_analysis_and_Hausdorff_dimension.pdf" rel="">Harmonic Analysis and Hausdorff Dimension</a>
+;</p>
+<p>Presentation Slides: <a href="/Undergraduate_thesis/presentation_HAHD.pdf" rel="">HAHD Presentation</a>
+.</p>
+<h2 id="notes">Notes</h2>
+<h3 id="notes-on-the-categorical-origins-of-lebesgue-integration-by-tom-leinsterhttpswwwmathsedacuktl-handwritten">Notes on <em>The Categorical Origins of Lebesgue Integration</em> by <a href="https://www.maths.ed.ac.uk/~tl/" target="_blank" rel="noopener noreffer">Tom Leinster</a>
+ (Handwritten)</h3>
+<h5 id="handwritten-notes-notes-on-the-categorical-origins-of-lebesgue-integrationnotes_the_categorical_origins_of_lebesgue_integrationpdf">Handwritten notes: <a href="/Notes_The_categorical_origins_of_Lebesgue_integration.pdf" rel="">Notes on The Categorical Origins of Lebesgue Integration</a>
+</h5>
+<h5 id="original-paper-a-categorical-derivation-of-lebesgue-integrationhttpsarxivorgpdf201100412pdf">Original Paper: <a href="https://arxiv.org/pdf/2011.00412.pdf" target="_blank" rel="noopener noreffer"><em>A categorical derivation of Lebesgue integration</em></a>
+</h5>
+<h3 id="notes-on-fourier-analysis-an-introduction-by-stein-and-shakarchi-with-partial-solutions-handwritten">Notes on <em>Fourier Analysis, an Introduction</em> by Stein and Shakarchi with partial solutions (Handwritten)</h3>
+<h4 id="handwritten-notes">Handwritten notes:</h4>
+<p><a href="/Fourier_Analysis_Stein/My_handwritten_notes/Notes_%281%29.pdf" rel="">Fourier Analysis Notes 1</a>
+</p>]]></description>
+</item>
+</channel>
+</rss>
