@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Ruijun LIN - MATH</title>
-        <link>http://localhost:1313/</link>
+        <link>http://ruijun-lin.github.io/</link>
         <description>This is my space</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2025 12:04:44 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://ruijun-lin.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Miscellaneous</title>
-    <link>http://localhost:1313/miscellaneous/</link>
+    <link>http://ruijun-lin.github.io/miscellaneous/</link>
     <pubDate>Sat, 08 Feb 2025 12:04:44 &#43;0800</pubDate>
     <author>Ruijun Lin</author>
-    <guid>http://localhost:1313/miscellaneous/</guid>
+    <guid>http://ruijun-lin.github.io/miscellaneous/</guid>
     <description><![CDATA[<h1 id="hobbies">Hobbies</h1>
 <h2 id="music">Music</h2>
 <p>Music is a part of my life. I learned erhu (a kind of Chinese traditional instrument) in my childhood and began to learn to play the piano after graduating from the senior high school. I love both of them, and my favorite types of music are classical music, new age and Chinese traditional music.</p>
@@ -18,10 +18,10 @@
 </item>
 <item>
     <title>Work and Thinking</title>
-    <link>http://localhost:1313/work_thinking/</link>
+    <link>http://ruijun-lin.github.io/work_thinking/</link>
     <pubDate>Sat, 08 Feb 2025 00:41:23 &#43;0800</pubDate>
     <author>Ruijun Lin</author>
-    <guid>http://localhost:1313/work_thinking/</guid>
+    <guid>http://ruijun-lin.github.io/work_thinking/</guid>
     <description><![CDATA[<p>This page contains data related to mathematics from myself and my instructors.</p>
 <h2 id="theses">Theses</h2>
 <h3 id="graduate-thesis">Graduate Thesis</h3>
@@ -53,10 +53,10 @@
 </item>
 <item>
     <title>Connections between topological and categorical limits</title>
-    <link>http://localhost:1313/connections_topological_and_categorical_limits/</link>
+    <link>http://ruijun-lin.github.io/connections_topological_and_categorical_limits/</link>
     <pubDate>Fri, 07 Feb 2025 00:11:51 &#43;0800</pubDate>
     <author>Ruijun Lin</author>
-    <guid>http://localhost:1313/connections_topological_and_categorical_limits/</guid>
+    <guid>http://ruijun-lin.github.io/connections_topological_and_categorical_limits/</guid>
     <description><![CDATA[<p>The definitions of a filter and its related concepts are from Tai-Danae Bradley, Tyler Bryson, and John Terilla, <em>Topology: A Categorical Approach</em>.</p>
 <blockquote>
 <p><strong>Definition.</strong> (filter) A <strong>filter</strong> on a set $X$ is a collection $\mathcal{F}$ that is
@@ -68,10 +68,10 @@ An additional property is often useful:
 </item>
 <item>
     <title>About me</title>
-    <link>http://localhost:1313/about_me/</link>
+    <link>http://ruijun-lin.github.io/about_me/</link>
     <pubDate>Tue, 04 Feb 2025 17:11:26 &#43;0800</pubDate>
     <author>Ruijun Lin</author>
-    <guid>http://localhost:1313/about_me/</guid>
+    <guid>http://ruijun-lin.github.io/about_me/</guid>
     <description><![CDATA[<p>I am a second-year master&rsquo;s student in mathematics and just graduated from the <a href="https://www.ku.dk/english/" target="_blank" rel="noopener noreffer">University of Copenhagen</a>
  in June, 2023. My interests are operator algebra, harmonic analysis and related topics.</p>
 <p>My graduate thesis supervisor as well as academic advisor is <a href="http://web.math.ku.dk/~eilers/" target="_blank" rel="noopener noreffer">Søren Eilers</a>

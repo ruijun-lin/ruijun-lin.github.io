@@ -2,67 +2,67 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/miscellaneous/</loc><lastmod>2025-02-08T12:04:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/miscellaneous/</loc><lastmod>2025-02-08T12:04:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/miscellaneous/"
+                        href="http://ruijun-lin.github.io/zh-cn/miscellaneous/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/miscellaneous/"
+                    href="http://ruijun-lin.github.io/miscellaneous/"
                     /></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-02-08T12:04:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/posts/</loc><lastmod>2025-02-08T12:04:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/posts/"
+                        href="http://ruijun-lin.github.io/zh-cn/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/posts/"
+                    href="http://ruijun-lin.github.io/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-02-08T12:04:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/</loc><lastmod>2025-02-08T12:04:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/"
+                        href="http://ruijun-lin.github.io/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/"
+                    href="http://ruijun-lin.github.io/"
                     /></url><url>
-            <loc>http://localhost:1313/work_thinking/</loc><lastmod>2025-02-08T00:41:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/work_thinking/</loc><lastmod>2025-02-08T00:41:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/work_thinking/"
+                        href="http://ruijun-lin.github.io/zh-cn/work_thinking/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/work_thinking/"
+                    href="http://ruijun-lin.github.io/work_thinking/"
                     /></url><url>
-            <loc>http://localhost:1313/connections_topological_and_categorical_limits/</loc><lastmod>2025-02-07T00:11:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/about_me/</loc><lastmod>2025-02-04T17:11:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/connections_topological_and_categorical_limits/</loc><lastmod>2025-02-07T00:11:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://ruijun-lin.github.io/about_me/</loc><lastmod>2025-02-04T17:11:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/about_me/"
+                        href="http://ruijun-lin.github.io/zh-cn/about_me/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/about_me/"
+                    href="http://ruijun-lin.github.io/about_me/"
                     /></url><url>
-            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/categories/"
+                        href="http://ruijun-lin.github.io/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/categories/"
+                    href="http://ruijun-lin.github.io/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/tags/"
+                        href="http://ruijun-lin.github.io/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/tags/"
+                    href="http://ruijun-lin.github.io/tags/"
                     /></url></urlset>

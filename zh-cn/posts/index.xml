@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - LIN Rujun - MATH</title>
-        <link>http://localhost:1313/zh-cn/posts/</link>
+        <link>http://ruijun-lin.github.io/zh-cn/posts/</link>
         <description>所有文章 | LIN Rujun - MATH</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 10 Feb 2025 00:17:24 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 10 Feb 2025 00:17:24 &#43;0800</lastBuildDate><atom:link href="http://ruijun-lin.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
     <title>业余涉猎</title>
-    <link>http://localhost:1313/zh-cn/miscellaneous/</link>
+    <link>http://ruijun-lin.github.io/zh-cn/miscellaneous/</link>
     <pubDate>Mon, 10 Feb 2025 00:17:24 &#43;0800</pubDate>
     <author>LIN Ruijun</author>
-    <guid>http://localhost:1313/zh-cn/miscellaneous/</guid>
+    <guid>http://ruijun-lin.github.io/zh-cn/miscellaneous/</guid>
     <description><![CDATA[<h1 id="兴趣爱好">兴趣爱好</h1>
 <h2 id="音乐">音乐</h2>
 <p>音乐是我生活中的一部分。我在童年时期学习了二胡，高中毕业后开始学习钢琴；喜欢的音乐类型包括古典音乐、新世纪音乐和中国传统民族音乐。</p>
@@ -33,20 +33,20 @@
 </item>
 <item>
     <title>关于我</title>
-    <link>http://localhost:1313/zh-cn/about_me/</link>
+    <link>http://ruijun-lin.github.io/zh-cn/about_me/</link>
     <pubDate>Sun, 09 Feb 2025 23:53:57 &#43;0800</pubDate>
     <author>LIN Ruijun</author>
-    <guid>http://localhost:1313/zh-cn/about_me/</guid>
+    <guid>http://ruijun-lin.github.io/zh-cn/about_me/</guid>
     <description><![CDATA[<p><a href="https://www.ku.dk/english/" target="_blank" rel="noopener noreffer">哥本哈根大学</a>
 数学专业的二年级硕士研究生（2023年6月毕业），<a href="https://www.sustech.edu.cn/" target="_blank" rel="noopener noreffer">南方科技大学</a>
 本科生（2021年6月毕业）；感兴趣领域包括算子代数、调和分析以及相关话题。</p>]]></description>
 </item>
 <item>
     <title>Work and Thinking</title>
-    <link>http://localhost:1313/zh-cn/work_thinking/</link>
+    <link>http://ruijun-lin.github.io/zh-cn/work_thinking/</link>
     <pubDate>Sat, 08 Feb 2025 00:41:23 &#43;0800</pubDate>
     <author>Ruijun Lin</author>
-    <guid>http://localhost:1313/zh-cn/work_thinking/</guid>
+    <guid>http://ruijun-lin.github.io/zh-cn/work_thinking/</guid>
     <description><![CDATA[<p>This page contains data related to mathematics from myself and my instructors.</p>
 <h2 id="theses">Theses</h2>
 <h3 id="graduate-thesis">Graduate Thesis</h3>
