@@ -23,12 +23,22 @@
 </div>
 
 ## 铁路基础设施
-我对中国和世界的铁路交通信息较为关注，特别是国内已有、在建和规划中的高铁和地铁线路。
+我对中国和世界的铁路交通信息较为关注，特别是国内已建成、在建和规划中的高铁和地铁线路。
 
 为了帮助自己和他人理解丹麦哥本哈根地铁站和火车站站名的含义，我创建了一个Notion文档，并在其中整理了一份清单来收集这些站名的释义。
 点击以下链接获取：[哥本哈根地铁、市郊铁路、区域铁路、城际铁路与地方铁路站名含义](https://www.notion.so/Meanings-of-Copenhagen-Metro-S-train-Regional-train-Inter-city-train-and-Local-train-station-nam-e2a154e226c54a1f9851e359c6d76eb8?pvs=4)。
 
+# 师长
+#### (按姓氏拼音首字母顺序排列)
+
+- [Søren Eilers](http://web.math.ku.dk/~eilers/)，哥本哈根大学数学科学系教授
+- [刘博辰](https://math.sustech.edu.cn/c/liubochen)，南方科技大学数学系副教授
+- [Aidan Sims](https://www.aidansims.com/)，澳大利亚卧龙岗（伍伦贡）大学数学与应用统计学院杰出教授
+- [朱一飞](https://yifeizhu.github.io/)，南方科技大学数学系助理教授
+
+
 # 好友们
+#### （按姓氏拼音首字母顺序排列）
 [黄炜杰（Macromogic），莱斯大学（Rice University）计算机科学专业](https://macromogic.xyz/)
 
 [罗钰婷（囷囷不困），中国美术学院壁画系](https://www.xiaohongshu.com/user/profile/5ea525200000000001003a21?xhsshare=CopyLink&appuid=5c76637a000000001201d527&apptime=1714288439)
@@ -55,6 +65,7 @@
 - [ChatGPT](https://chat.openai.com/)
 
 - [Kimi](https://kimi.moonshot.cn/)
+
 
 ## 微信公众号
 我的微信公众号中包含我的一些摄影图片以及非学术性的文章（若感兴趣，可以使用微信扫描二维码关注）。

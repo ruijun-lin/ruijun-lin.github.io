@@ -23,11 +23,20 @@ The following is another of my piano covers *In the Morning Light* composed by Y
 </div>
 
 ## Railway infrastructures
+I am interested in the railway transportation stuff in China and the world, especially the high-speed rail and metro lines that have been built, under construction and under planning in China.
+
 To help myself and others understand the meanings of names of metro stations and railway stations in Copenhagen, Denmark, I built a Notion document with a list to collect them.
 You can find it here: [Meanings of Copenhagen Metro, S-train and Regional train station names](https://www.notion.so/Meanings-of-Copenhagen-Metro-S-train-Regional-train-Inter-city-train-and-Local-train-station-nam-e2a154e226c54a1f9851e359c6d76eb8?pvs=4).
 
+# Teachers
+#### (in alphabetical order)
+- [Bochen Liu](http://www.sustech.edu.cn/en/faculties/liubochen.html), Associate Professor, Department of Mathematics, Southern University of Science and Technology
+- [Søren Eilers](http://web.math.ku.dk/~eilers/), Professor, Department of Mathematical Sciences, University of Copenhagen
+- [Aidan Sims](https://www.aidansims.com/), Distinguished Professor, School of Mathematics and Applied Statistics, University of Wollongong Australia
+- [Yifei Zhu](https://yifeizhu.github.io/), Assistant Professor, Department of Mathematics, Southern University of Science and Technology
 
 # Friends
+#### (in alphabetical order)
 [Weijie Huang (Macromogic), Computer Science, Rice University](https://macromogic.xyz/)
 
 [Yuting Luo ("Qunqun bukun"), Department of Mural Painting, Chinese Academy of Art](https://www.xiaohongshu.com/user/profile/5ea525200000000001003a21?xhsshare=CopyLink&appuid=5c76637a000000001201d527&apptime=1714288439)
@@ -35,6 +44,7 @@ You can find it here: [Meanings of Copenhagen Metro, S-train and Regional train 
 [Hanmei Yang, Computer Science, University of Massachusetts Amherst](https://hanmei.netlify.app/)
 
 [Yanpeng Zhi, Probability Theory, Durham University](https://www.durham.ac.uk/staff/yanpeng-zhi/)
+
 # Useful links
 ### For those who are interested in railway infrastructures:
 - [OpenRailwayMap Website](https://www.openrailwaymap.org/)
