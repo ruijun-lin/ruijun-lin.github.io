@@ -39,18 +39,19 @@
 
 # 好友们
 #### （按姓氏拼音首字母顺序排列）
-[黄炜杰（Macromogic），莱斯大学（Rice University）计算机科学专业](https://macromogic.xyz/)
+[黄炜杰（Macromogic），莱斯大学（Rice University）计算机科学专业博士研究生](https://macromogic.xyz/)
 
-[罗钰婷（囷囷不困），中国美术学院壁画系](https://www.xiaohongshu.com/user/profile/5ea525200000000001003a21?xhsshare=CopyLink&appuid=5c76637a000000001201d527&apptime=1714288439)
+[罗钰婷（囷囷不困），中国美术学院壁画系硕士研究生](https://www.xiaohongshu.com/user/profile/5ea525200000000001003a21?xhsshare=CopyLink&appuid=5c76637a000000001201d527&apptime=1714288439)
 
-[杨寒梅, 马萨诸塞大学阿默斯特分校（UMass Amherst）计算机科学专业](https://hanmei.netlify.app/)
+[杨寒梅, 马萨诸塞大学阿默斯特分校（UMass Amherst）计算机科学专业博士研究生（已毕业）](https://hanmei.netlify.app/)
 
-[智彦朋, 杜伦大学（Durham University）基础数学概率论方向](https://www.durham.ac.uk/staff/yanpeng-zhi/)
+[智彦朋, 杜伦大学（Durham University）基础数学概率论方向博士研究生](https://www.durham.ac.uk/staff/yanpeng-zhi/)
 
 # 实用链接
 ### 铁路基础设施相关：
 - [公开铁路图网站](https://www.openrailwaymap.org/?style=standard&lang=zh_CN&lat=51.58248&lon=15.6501&zoom=3)
-- [中国动车组](https://www.china-emu.cn/)
+- [中国动车组列车运营范围示意图](https://china-emu.cn/img/RailMaps/HSR/Map.html)
+- [中国动车组网站](https://www.china-emu.cn/)
 
 ### 数学可视化
 - [3Blue1Brown](https://www.3blue1brown.com/)
@@ -59,12 +60,17 @@
 
 ### AI聊天机器人
 -  [深度求索（Deepseek）](https://chat.deepseek.com/)
+ 
+    [腾讯元宝](https://yuanbao.tencent.com/)（服务器繁忙时的备选）
     
-    [问小白](https://www.wenxiaobai.com/chat/) (服务器繁忙时的备选)
+    [问小白](https://www.wenxiaobai.com/chat/)（另一备选）
 
 - [ChatGPT](https://chat.openai.com/)
 
 - [Kimi](https://kimi.moonshot.cn/)
+
+- [腾讯混元](https://hunyuan.tencent.com/)
+
 
 
 ## 微信公众号

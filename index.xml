@@ -3,12 +3,27 @@
         <title>Ruijun LIN - MATH</title>
         <link>http://ruijun-lin.github.io/</link>
         <description>This is my space</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2025 12:04:44 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://ruijun-lin.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>About me</title>
+    <link>http://ruijun-lin.github.io/about_me/</link>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 &#43;0000</pubDate>
+    <author>Ruijun Lin</author>
+    <guid>http://ruijun-lin.github.io/about_me/</guid>
+    <description><![CDATA[<p>I am a second-year master&rsquo;s student in mathematics and just graduated from the <a href="https://www.ku.dk/english/" target="_blank" rel="noopener noreffer">University of Copenhagen</a>
+ in June, 2023. My interests are operator algebra, harmonic analysis and related topics.</p>
+<p>My graduate thesis supervisor as well as academic advisor is <a href="http://web.math.ku.dk/~eilers/" target="_blank" rel="noopener noreffer">Søren Eilers</a>
+, whose research interest lies mainly in operator algebra and functional analysis, especially graph C*-algebras, classification of C*-algebras, and K-theory for operator algebras related with them.</p>
+<p>My bachelor&rsquo;s degree was awarded at <a href="https://www.sustech.edu.cn/en/" target="_blank" rel="noopener noreffer">Southern University of Science and Technology</a>
+, Shenzhen China. My undergraduate academic advisor was <a href="https://yifeizhu.github.io/" target="_blank" rel="noopener noreffer">Yifei Zhu</a>
+, whose research interests are algebraic topology and related fields, particularly in its connections to algebraic geometry and number theory via objects such as formal groups, elliptic curves, and modular forms. Currently he is also discussing topics in computational topology and topological data analysis. My undergraduate thesis supervisor was <a href="http://www.sustech.edu.cn/en/faculties/liubochen.html" target="_blank" rel="noopener noreffer">Bochen Liu</a>
+, whose research interests are harmonic analysis, geometric measure theory and combinatorics.</p>]]></description>
+</item>
+<item>
     <title>Miscellaneous</title>
     <link>http://ruijun-lin.github.io/miscellaneous/</link>
-    <pubDate>Sat, 08 Feb 2025 12:04:44 &#43;0800</pubDate>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 &#43;0000</pubDate>
     <author>Ruijun Lin</author>
     <guid>http://ruijun-lin.github.io/miscellaneous/</guid>
     <description><![CDATA[<h1 id="hobbies">Hobbies</h1>
@@ -65,21 +80,6 @@
 (iii) upward closed: $A\in \mathcal{F}$ and $A\subseteq B$ implies $B\in \mathcal{F}$.
 An additional property is often useful:
 (iv) proper: there exists $A\subseteq X$ such that $A\notin \mathcal{F}$.</p>]]></description>
-</item>
-<item>
-    <title>About me</title>
-    <link>http://ruijun-lin.github.io/about_me/</link>
-    <pubDate>Tue, 04 Feb 2025 17:11:26 &#43;0800</pubDate>
-    <author>Ruijun Lin</author>
-    <guid>http://ruijun-lin.github.io/about_me/</guid>
-    <description><![CDATA[<p>I am a second-year master&rsquo;s student in mathematics and just graduated from the <a href="https://www.ku.dk/english/" target="_blank" rel="noopener noreffer">University of Copenhagen</a>
- in June, 2023. My interests are operator algebra, harmonic analysis and related topics.</p>
-<p>My graduate thesis supervisor as well as academic advisor is <a href="http://web.math.ku.dk/~eilers/" target="_blank" rel="noopener noreffer">Søren Eilers</a>
-, whose research interest lies mainly in operator algebra and functional analysis, especially graph C*-algebras, classification of C*-algebras, and K-theory for operator algebras related with them.</p>
-<p>My bachelor&rsquo;s degree was awarded at <a href="https://www.sustech.edu.cn/en/" target="_blank" rel="noopener noreffer">Southern University of Science and Technology</a>
-, Shenzhen China. My undergraduate academic advisor was <a href="https://yifeizhu.github.io/" target="_blank" rel="noopener noreffer">Yifei Zhu</a>
-, whose research interests are algebraic topology and related fields, particularly in its connections to algebraic geometry and number theory via objects such as formal groups, elliptic curves, and modular forms. Currently he is also discussing topics in computational topology and topological data analysis. My undergraduate thesis supervisor was <a href="http://www.sustech.edu.cn/en/faculties/liubochen.html" target="_blank" rel="noopener noreffer">Bochen Liu</a>
-, whose research interests are harmonic analysis, geometric measure theory and combinatorics.</p>]]></description>
 </item>
 </channel>
 </rss>

@@ -7,7 +7,7 @@ My graduate thesis supervisor as well as academic advisor is [Søren Eilers](htt
 
 My bachelor's degree was awarded at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen China. My undergraduate academic advisor was [Yifei Zhu](https://yifeizhu.github.io/), whose research interests are algebraic topology and related fields, particularly in its connections to algebraic geometry and number theory via objects such as formal groups, elliptic curves, and modular forms. Currently he is also discussing topics in computational topology and topological data analysis. My undergraduate thesis supervisor was [Bochen Liu](http://www.sustech.edu.cn/en/faculties/liubochen.html), whose research interests are harmonic analysis, geometric measure theory and combinatorics.
 
-I will pursue my PhD degree supervised by Distinguished Professor [Aidan Sims](https://www.aidansims.com/) focusing on operator algebras related to graphs and groupoids at the [University of Wollongong](https://www.uow.edu.au/), Australia (expected) in March 2025.
+I will pursue my PhD degree supervised by Distinguished Professor [Aidan Sims](https://www.aidansims.com/) focusing on operator algebras related to graphs and groupoids at the [University of Wollongong](https://www.uow.edu.au/), Australia (expected) in August 2025.
 
 Here is **[my CV](/Ruijun_Lin_CV.pdf)**.
 

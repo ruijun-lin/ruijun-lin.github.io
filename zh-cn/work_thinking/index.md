@@ -47,7 +47,7 @@ Presentation Slides: [HAHD Presentation](/Undergraduate_thesis/presentation_HAHD
 
 [Fourier Analysis Notes 7](/Fourier_Analysis_Stein/My_handwritten_notes/Notes_(7).pdf)
 
-#### Reference book: [Fourier Analysis, an Introduction](/Fourier_Analysis_Stein/Fourier_Analysis_textbook.pdf)
+#### Reference book: [*Fourier Analysis, an Introduction*](/Fourier_Analysis_Stein/Fourier_Analysis_textbook.pdf)
 #### Partial Solutions
 [Partial Solutions Part 1](/Fourier_Analysis_Stein/My_handwriten_solutions/Exercise_(1).pdf)
 

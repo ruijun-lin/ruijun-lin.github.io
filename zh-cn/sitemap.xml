@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://ruijun-lin.github.io/zh-cn/</loc><lastmod>2025-02-10T00:17:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/zh-cn/</loc><lastmod>2025-08-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://ruijun-lin.github.io/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="http://ruijun-lin.github.io/zh-cn/"
                     /></url><url>
-            <loc>http://ruijun-lin.github.io/zh-cn/posts/</loc><lastmod>2025-02-10T00:17:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/zh-cn/posts/</loc><lastmod>2025-08-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://ruijun-lin.github.io/posts/"
@@ -20,16 +20,7 @@
                     hreflang="zh-cn"
                     href="http://ruijun-lin.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>http://ruijun-lin.github.io/zh-cn/miscellaneous/</loc><lastmod>2025-02-10T00:17:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://ruijun-lin.github.io/miscellaneous/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://ruijun-lin.github.io/zh-cn/miscellaneous/"
-                    /></url><url>
-            <loc>http://ruijun-lin.github.io/zh-cn/about_me/</loc><lastmod>2025-02-09T23:53:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/zh-cn/about_me/</loc><lastmod>2025-08-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://ruijun-lin.github.io/about_me/"
@@ -38,7 +29,16 @@
                     hreflang="zh-cn"
                     href="http://ruijun-lin.github.io/zh-cn/about_me/"
                     /></url><url>
-            <loc>http://ruijun-lin.github.io/zh-cn/work_thinking/</loc><lastmod>2025-02-08T00:41:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://ruijun-lin.github.io/zh-cn/miscellaneous/</loc><lastmod>2025-08-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://ruijun-lin.github.io/miscellaneous/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://ruijun-lin.github.io/zh-cn/miscellaneous/"
+                    /></url><url>
+            <loc>http://ruijun-lin.github.io/zh-cn/work_thinking/</loc><lastmod>2025-02-08T00:41:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://ruijun-lin.github.io/work_thinking/"

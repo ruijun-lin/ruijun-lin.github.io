@@ -37,17 +37,18 @@ You can find it here: [Meanings of Copenhagen Metro, S-train and Regional train 
 
 # Friends
 #### (in alphabetical order)
-[Weijie Huang (Macromogic), Computer Science, Rice University](https://macromogic.xyz/)
+[Weijie Huang (Macromogic), PhD student, Computer Science, Rice University](https://macromogic.xyz/)
 
-[Yuting Luo ("Qunqun bukun"), Department of Mural Painting, Chinese Academy of Art](https://www.xiaohongshu.com/user/profile/5ea525200000000001003a21?xhsshare=CopyLink&appuid=5c76637a000000001201d527&apptime=1714288439)
+[Yuting Luo ("Qunqun bukun"), Master student, Department of Mural Painting, Chinese Academy of Art](https://www.xiaohongshu.com/user/profile/5ea525200000000001003a21?xhsshare=CopyLink&appuid=5c76637a000000001201d527&apptime=1714288439)
 
-[Hanmei Yang, Computer Science, University of Massachusetts Amherst](https://hanmei.netlify.app/)
+[Hanmei Yang, PhD student, Computer Science, University of Massachusetts Amherst (Graduated)](https://hanmei.netlify.app/)
 
-[Yanpeng Zhi, Probability Theory, Durham University](https://www.durham.ac.uk/staff/yanpeng-zhi/)
+[Yanpeng Zhi, PhD student, Probability Theory, Durham University](https://www.durham.ac.uk/staff/yanpeng-zhi/)
 
 # Useful links
 ### For those who are interested in railway infrastructures:
 - [OpenRailwayMap Website](https://www.openrailwaymap.org/)
+- [China EMU Railway Network Map](https://china-emu.cn/img/RailMaps/HSR/Map.html)
 - [China EMU](https://www.china-emu.cn/en/)
 
 ### Visualization of Mathematics
@@ -58,15 +59,19 @@ You can find it here: [Meanings of Copenhagen Metro, S-train and Regional train 
 ### AI Chatbots
 -  [Deepseek](https://chat.deepseek.com/)
     
-    [Wenxiaobai](https://www.wenxiaobai.com/chat/) (an alternative when the server is busy)
+    [Tencent Yuanbao](https://yuanbao.tencent.com/)(an alternative when the server is busy)
+    
+    [Wenxiaobai](https://www.wenxiaobai.com/chat/) (another alternative)
 
 - [ChatGPT](https://chat.openai.com/)
 
 - [Kimi](https://kimi.moonshot.cn/)
 
+- [Tencent Hunyuan](https://hunyuan.tencent.com/)
+
 
 # WeChat Public Account
-The wechat public account contains some of my photographs and non-academic posts (Use WeChat (微信) to scan the QR code if you are interested).
+The WeChat public account contains some of my photographs and non-academic posts (Use WeChat (微信) to scan the QR code if you are interested).
 
 ![QR code](/qrcode_wechat_public_account.jpg)
 
