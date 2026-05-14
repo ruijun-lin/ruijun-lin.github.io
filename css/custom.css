@@ -1,0 +1,83 @@
+a:hover {
+  color: #1d6fd8;
+  fill: #1d6fd8;
+}
+
+.post .post-content {
+  margin-top: 24px;
+  line-height: 1.4;
+  padding-left: 2rem;
+}
+
+.post-content h1 { margin-top: 24px; }
+.post-content h2 { margin-top: 20px; }
+.post-content h3 { margin-top: 16px; }
+.post-content h4 { margin-top: 12px; }
+
+.post .post-header-section {
+  margin-bottom: 0;
+}
+
+.post .post-header-section h1 {
+  font-size: 1.8rem;
+}
+
+/* Math boxes */
+.math-box {
+  border-left: 4px solid;
+  border-radius: 0 4px 4px 0;
+  margin: 1.2em 0;
+  padding: 0.6em 1em 0.6em 1em;
+}
+
+.math-box-title {
+  font-weight: 700;
+  margin-bottom: 0.3em;
+}
+
+.math-box-content > p:last-child {
+  margin-bottom: 0;
+}
+
+.math-definition {
+  border-color: #4a7fc1;
+  background-color: rgba(74, 127, 193, 0.08);
+}
+
+.math-definition .math-box-title {
+  color: #4a7fc1;
+}
+
+.math-theorem {
+  border-color: #c0392b;
+  background-color: rgba(192, 57, 43, 0.07);
+}
+
+.math-theorem .math-box-title {
+  color: #c0392b;
+}
+
+.math-proof {
+  border-color: #888;
+  background-color: rgba(128, 128, 128, 0.06);
+}
+
+.math-proof .math-box-title {
+  color: #555;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.math-qed {
+  float: right;
+  font-size: 1.1em;
+}
+
+.math-example {
+  border-color: #888;
+  background-color: transparent;
+}
+
+.math-example .math-box-title {
+  color: #555;
+}

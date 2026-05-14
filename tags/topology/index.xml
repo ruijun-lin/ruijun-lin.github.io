@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Topology on Ruijun Lin 林睿军</title><link>http://localhost:1313/tags/topology/</link><description>Recent content in Topology on Ruijun Lin 林睿军</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/topology/index.xml" rel="self" type="application/rss+xml"/><item><title>Connections between Topological and Categorical Limits</title><link>http://localhost:1313/connections_topological_and_categorical_limits/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/connections_topological_and_categorical_limits/</guid><description>&lt;h2 id="filter-definition">Filter Definition&lt;/h2>
+&lt;p>A &lt;strong>filter&lt;/strong> on a set $X$ is a collection $\mathcal{F}$ satisfying:&lt;/p>
+&lt;ol>
+&lt;li>downward directed,&lt;/li>
+&lt;li>nonempty,&lt;/li>
+&lt;li>upward closed, and&lt;/li>
+&lt;li>proper (excludes the empty set).&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Key observations:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Filters are closed under finite intersections.&lt;/li>
+&lt;li>The power set $2^X$ is a filter but not proper.&lt;/li>
+&lt;li>A &lt;strong>filterbase&lt;/strong> is downward directed and nonempty; any filterbase generates a filter through upward closure.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="examples">Examples&lt;/h2>
+&lt;p>&lt;strong>Trivial filter:&lt;/strong> The smallest filter ${X}$ on any set $X$.&lt;/p>
+&lt;p>&lt;strong>Eventuality filter:&lt;/strong> For a sequence ${x_n}$ in a space $X$:&lt;/p></description></item></channel></rss>
