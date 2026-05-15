@@ -167,3 +167,89 @@ a:hover {
 .lang-dropdown-menu li a:hover {
   opacity: 1;
 }
+
+/* Clock widget */
+.clock-widget {
+  margin-top: 1.2rem;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.6;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+.clock-date {
+  margin-bottom: 0.2em;
+}
+
+.clock-time-row {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  gap: 0.5em;
+}
+
+#clock-time {
+  font-weight: 600;
+}
+
+.clock-tz {
+  font-size: 0.78rem;
+  opacity: 0.75;
+}
+
+/* Weather widget */
+.weather-widget {
+  margin-top: 0.8rem;
+  text-align: center;
+  font-size: 0.85rem;
+  opacity: 0.65;
+  letter-spacing: 0.03em;
+}
+
+.wc-msg {
+  font-size: 0.82rem;
+  opacity: 0.8;
+}
+
+.wc-main {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55em;
+}
+
+.wc-icon {
+  font-size: 2.2rem;
+  line-height: 1;
+}
+
+.wc-info {
+  text-align: left;
+}
+
+.wc-top {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35em;
+}
+
+.wc-temp {
+  font-size: 1.35rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.wc-desc {
+  font-size: 0.82rem;
+}
+
+.wc-sub {
+  font-size: 0.76rem;
+  opacity: 0.8;
+  margin-top: 0.1em;
+}
+
+.wc-dot {
+  margin: 0 0.05em;
+}
+
