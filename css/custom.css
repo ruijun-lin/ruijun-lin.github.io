@@ -81,3 +81,89 @@ a:hover {
 .math-example .math-box-title {
   color: #555;
 }
+
+/* Language switcher dropdown */
+.lang-dropdown {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  height: 50px;
+  vertical-align: top;
+}
+
+.lang-dropdown-toggle {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  cursor: pointer;
+  padding: 0 6px;
+  opacity: 0.75;
+  line-height: normal;
+  transition: opacity 0.2s;
+  user-select: none;
+}
+
+.lang-dropdown:hover .lang-dropdown-toggle {
+  opacity: 1;
+}
+
+.lang-dropdown-toggle svg {
+  height: 20px;
+  width: 20px;
+  margin: -3px 0;
+  stroke-width: 1;
+}
+
+.lang-chevron {
+  transition: transform 0.2s;
+}
+
+.lang-dropdown:hover .lang-chevron {
+  transform: rotate(180deg);
+}
+
+
+/* --dark-primary-color is only defined when dark.css is active;
+   when absent, the fallback --light-primary-color takes effect */
+.lang-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  margin-top: 6px;
+  right: 0;
+  list-style: none;
+  padding: 4px 0;
+  min-width: 80px;
+  border-radius: 6px;
+  z-index: 200;
+  background: rgb(var(--dark-primary-color, var(--light-primary-color)));
+  border: 1.5px solid var(--dark-secondary-color, var(--light-secondary-color));
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Invisible bridge filling the margin-top gap to keep :hover active */
+.lang-dropdown-menu::before {
+  content: '';
+  position: absolute;
+  top: -6px;
+  left: 0;
+  right: 0;
+  height: 6px;
+}
+
+.lang-dropdown:hover .lang-dropdown-menu {
+  display: block;
+}
+
+.lang-dropdown-menu li a {
+  display: block;
+  padding: 6px 16px;
+  text-decoration: none;
+  opacity: 0.75;
+  transition: opacity 0.2s;
+  white-space: nowrap;
+}
+
+.lang-dropdown-menu li a:hover {
+  opacity: 1;
+}

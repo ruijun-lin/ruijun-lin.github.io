@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>林睿军 - 数学 on Ruijun Lin's Space</title><link>https://ruijun-lin.github.io/zh/</link><description>Recent content in 林睿军 - 数学 on Ruijun Lin's Space</description><generator>Hugo</generator><language>zh-hans</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ruijun-lin.github.io/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>关于我 - 林睿军 - 数学</title><link>https://ruijun-lin.github.io/zh/about/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ruijun-lin.github.io/zh/about/</guid><description>&lt;p>我是&lt;a href="https://www.uow.edu.au/engineering-information-sciences/school-of-mathematics-and-physics/">澳大利亚伍伦贡大学数学与物理学院&lt;/a>的博士生，导师为&lt;a href="https://www.aidansims.com/">Aidan Sims&lt;/a>（荣誉）教授。&lt;/p>
+&lt;p>我在哥本哈根大学获得硕士学位，硕士论文导师为&lt;a href="https://web.math.ku.dk/~eilers/">Søren Eilers&lt;/a>教授，其研究领域主要为算子代数及相关方向，尤其是图C*-代数。&lt;/p>
+&lt;p>我在深圳南方科技大学获得本科学位。本科学术导师为&lt;a href="https://yifeizhu.github.io/">朱一飞&lt;/a>，研究方向为代数拓扑及相关领域；本科毕业论文导师为&lt;a href="https://math.sustech.edu.cn/c/liubochen?lang=en">刘博辰&lt;/a>，研究方向为调和分析、几何测度论与组合数学。&lt;/p>
+&lt;h2 id="研究方向">研究方向&lt;/h2>
+&lt;p>我的研究处于算子代数、组合学与拓扑学的交叉领域，具体包括：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>k-图（高阶图）：&lt;/strong> 有向图的推广，具有多维结构。k-图为C*-代数提供了丰富的例子，也是检验结构定理的重要例子。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>广群：&lt;/strong> 由k-图和其他组合对象产生的平展（étale）广群。广群模型是理解相关C*-代数的K-理论、理想结构与分类的有力工具。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>算子代数：&lt;/strong> 从广义上讲，我对C*-代数及其不变量感兴趣，包括K-理论、迹与理想格。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="教育背景">教育背景&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>数学博士在读&lt;/strong> - 澳大利亚伍伦贡大学&lt;/li>
+&lt;li>&lt;strong>数学理学硕士&lt;/strong> - 哥本哈根大学&lt;/li>
+&lt;li>&lt;strong>数学理学学士&lt;/strong> - 南方科技大学&lt;/li>
+&lt;/ul></description></item><item><title>研究与思考 - 林睿军 - 数学</title><link>https://ruijun-lin.github.io/zh/work/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ruijun-lin.github.io/zh/work/</guid><description>&lt;h2 id="讲义笔记">讲义笔记&lt;/h2>
+&lt;p>以下是我自己或授课教师的笔记，供参考。&lt;/p>
+&lt;h3 id="lebesgue积分的范畴论起源">Lebesgue积分的范畴论起源&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>原始论文：&lt;br>
+&lt;a href="https://arxiv.org/pdf/2011.00412">&lt;em>A categorical derivation of Lebesgue integration&lt;/em>&lt;/a> &lt;br>
+作者：&lt;a href="https://webhomes.maths.ed.ac.uk/~tl/">Tom Leinster&lt;/a>；&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>手写笔记：&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Notes_The_categorical_origins_of_Lebesgue_integration.pdf">Lebesgue积分的范畴论起源笔记&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="表示论导论课程">表示论导论（课程）&lt;/h3>
+&lt;ul>
+&lt;li>授课教师：&lt;a href="https://researchprofiles.ku.dk/en/persons/jasmin-matz">Jasmin Matz&lt;/a>&lt;/li>
+&lt;li>笔记：&lt;a href="https://ruijun-lin.github.io/work/notes/IntroRep_Notes_Matz.pdf">表示论导论笔记&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="群算子代数与动力系统项目">群、算子代数与动力系统（项目）&lt;/h3>
+&lt;ul>
+&lt;li>授课教师：&lt;a href="https://web.math.ku.dk/~rordam/">Mikael Rørdam&lt;/a> 和 &lt;a href="https://web.math.ku.dk/~musat/">Magdalena Musat&lt;/a>&lt;br>&lt;/li>
+&lt;li>笔记：&lt;a href="https://ruijun-lin.github.io/work/notes/GOADyn_Notes_Musat.pdf">GOADyn 笔记&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="研究生偏微分方程课程">研究生偏微分方程（课程）&lt;/h3>
+&lt;ul>
+&lt;li>授课教师：粟林林 &lt;br>&lt;/li>
+&lt;li>手写笔记：&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Su_Graduate_PDE/PDE_Chapter1.pdf">研究生 PDE 笔记 1&lt;/a> &lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Su_Graduate_PDE/PDE_Chapter2.pdf">研究生 PDE 笔记 2&lt;/a> &lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Su_Graduate_PDE/PDE_Chapter3.pdf">研究生 PDE 笔记 3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="fourier-分析导论">Fourier 分析导论&lt;/h3>
+&lt;ul>
+&lt;li>原著：&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Fourier_Analysis_textbook.pdf">&lt;em>Fourier Analysis, an Introduction&lt;/em>&lt;/a>&lt;br>
+作者：Elias M. Stein 和 Rami Shakarchi&lt;br>&lt;/li>
+&lt;li>手写笔记：&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Notes_%281%29.pdf">Fourier 分析笔记 1&lt;/a>&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Notes_%282%29.pdf">Fourier 分析笔记 2&lt;/a>&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Notes_%283%29.pdf">Fourier 分析笔记 3&lt;/a>&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Notes_%284%29.pdf">Fourier 分析笔记 4&lt;/a>&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Notes_%285%29.pdf">Fourier 分析笔记 5&lt;/a>&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Notes_%286%29.pdf">Fourier 分析笔记 6&lt;/a>&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Notes_%287%29.pdf">Fourier 分析笔记 7&lt;/a>&lt;br>&lt;/li>
+&lt;li>部分习题解答：&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Exercise_%281%29.pdf">部分解答 第 1 部分&lt;/a>&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Exercise_%282%29.pdf">部分解答 第 2 部分&lt;/a>&lt;br>
+&lt;a href="https://ruijun-lin.github.io/work/notes/Stein_Fourier_Analysis/Exercise_%283%29.pdf">部分解答 第 3 部分&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="学位论文">学位论文&lt;/h2>
+&lt;h3 id="硕士毕业论文">硕士毕业论文&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="https://ruijun-lin.github.io/work/theses/thesis_C-star-algebras_of_Left_Cancellative_Small_Categories_with_Garside_Families.pdf">具有 Garside 族的左消去小范畴的 C*-代数&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>业余涉猎 - 林睿军 - 数学</title><link>https://ruijun-lin.github.io/zh/misc/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ruijun-lin.github.io/zh/misc/</guid><description>&lt;h2 id="兴趣爱好">兴趣爱好&lt;/h2>
+&lt;p>除数学之外，以下是我的一些爱好：&lt;/p>
+&lt;h3 id="音乐">音乐&lt;/h3>
+&lt;p>音乐一直是我生活的一部分。我从小学习二胡（一种中国传统乐器），高中毕业后开始学习钢琴，两种乐器我都深深热爱。我最喜欢的音乐类型包括古典音乐、新世纪音乐和中国传统音乐。&lt;/p>
+&lt;p>以下是我演奏 Yanni 所作《In the Morning Light》（在晨光中）的钢琴演奏视频，这是我第一首完全自己练习的曲目。&lt;/p>
+&lt;div style="display: flex; justify-content: center;">
+ &lt;video controls style="width: 50%; height: auto;">
+ &lt;source src="https://ruijun-lin.github.io/misc/piano_In_the_Morning_Light.mp4" type="video/mp4">
+ &lt;/video>
+&lt;/div>
+&lt;h3 id="铁路基础设施">铁路基础设施&lt;/h3>
+&lt;p>我对中国及世界各地的铁路交通颇感兴趣，尤其关注已建成、在建及规划中的高速铁路与城市轨道交通线路。&lt;/p>
+&lt;hr>
+&lt;h2 id="链接与资源">链接与资源&lt;/h2>
+&lt;p>以下是我认为有用或有趣的资源合集。&lt;/p>
+&lt;h3 id="数学可视化">数学可视化&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.3blue1brown.com/">3Blue1Brown&lt;/a>&lt;br>
+中文读者：&lt;a href="https://space.bilibili.com/88461692?spm_id_from=333.337.0.0">3Blue1Brown（Bilibili 官方账号）&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="ai聊天模型">AI聊天模型&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://chat.deepseek.com/">DeepSeek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://chatgpt.com/">ChatGPT&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://claude.ai/">Claude&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kimi.com/">Kimi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="铁路地图与中国动车组">铁路地图与中国动车组&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.openrailwaymap.org/">开放铁路地图&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.china-emu.cn/RailRoads/Mainlines/">中国铁路网络地图&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.china-emu.cn/Trains/">中国动车组列车&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="师友">师友&lt;/h2>
+&lt;h3 id="教师">教师&lt;/h3>
+&lt;p>&lt;small> &lt;em>（按姓氏字母顺序排列）&lt;/em> &lt;/small>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.unsw.edu.au/staff/anna-duwenig">Anna Duwenig&lt;/a>，讲师，数学与统计学院，新南威尔士大学（悉尼）&lt;/li>
+&lt;li>&lt;a href="http://www.sustech.edu.cn/en/faculties/liubochen.html">刘博辰&lt;/a>，副教授，数学系，南方科技大学&lt;/li>
+&lt;li>&lt;a href="http://web.math.ku.dk/~eilers/">Søren Eilers&lt;/a>，教授，数学科学系，哥本哈根大学&lt;/li>
+&lt;li>&lt;a href="https://www.aidansims.com/">Aidan Sims&lt;/a>，教授，数学与统计学院，新南威尔士大学（悉尼）&lt;/li>
+&lt;li>&lt;a href="https://yifeizhu.github.io/">朱一飞&lt;/a>，助理教授，数学系，南方科技大学&lt;/li>
+&lt;/ul>
+&lt;h3 id="朋友">朋友&lt;/h3>
+&lt;p>&lt;small> &lt;em>（按姓氏字母顺序排列）&lt;/em> &lt;/small>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://macromogic.xyz/">黄炜杰（Macromogic），莱斯大学计算机科学博士研究生&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://xhslink.com/m/6mlnvo8lD5u">罗钰婷（囷囷不困），中国美术学院壁画系硕士研究生&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hanmei.netlify.app/">杨寒梅，麻省大学阿默斯特分校计算机科学博士研究生（已毕业）&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.durham.ac.uk/staff/yanpeng-zhi/">智彦鹏，杜伦大学数学系博士研究生&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="微信公众号">微信公众号&lt;/h2>
+&lt;p>微信公众号收录了我的一些摄影作品和非学术文章（感兴趣的朋友请用微信扫描二维码关注）。&lt;/p>
+&lt;img src="https://ruijun-lin.github.io/misc/qrcode_wechat_public_account.jpg" alt="微信公众号二维码" style="width: 103px; display: block; margin-left: 0;">
+&lt;p>以下是我在丹麦时发布的一篇文章：
+&lt;a href="https://mp.weixin.qq.com/s/MP0EGCs2raqJc9FJPGnt0g">丹麦：我出国踏上的第一片土地&lt;/a>&lt;/p></description></item><item><title>拓扑极限与范畴极限的联系</title><link>https://ruijun-lin.github.io/zh/connections_topological_and_categorical_limits/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://ruijun-lin.github.io/zh/connections_topological_and_categorical_limits/</guid><description>&lt;h3 id="定义与例子">定义与例子&lt;/h3>
+&lt;div class="math-box math-definition">
+ &lt;div class="math-box-title">定义&amp;ensp;(滤子)&lt;/div>
+ &lt;div class="math-box-content">&lt;p>集合 $X$ 上的**滤子（filter）**是一个集族 $\mathcal{F}$，满足&lt;/p>
+&lt;p>(i) 向下有向：$A, B \in \mathcal{F}$ 蕴含存在 $C \in \mathcal{F}$ 使得 $C \subseteq A \cap B$，&lt;br>
+(ii) 非空：$\mathcal{F} \neq \varnothing$，&lt;br>
+(iii) 向上封闭：$A \in \mathcal{F}$ 且 $A \subseteq B$ 蕴含 $B \in \mathcal{F}$。&lt;/p>
+&lt;p>一个额外的性质通常也很有用：&lt;br>
+(iv) 真滤子（proper filter）：存在 $A \subseteq X$ 使得 $A \notin \mathcal{F}$。&lt;/p>
+&lt;/div>
+&lt;/div>
+
+&lt;p>&lt;strong>关键观察：&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>向下有向性与向上封闭性共同蕴含滤子在有限交下封闭；真滤子的条件等价于 $\varnothing \notin \mathcal{F}$。&lt;/li>
+&lt;li>幂集 $2^X$ 是一个滤子，但不是真滤子。&lt;/li>
+&lt;li>仅满足向下有向性和非空性的集族称为&lt;strong>滤子基（filter base）&lt;/strong>。任何滤子基通过取向上闭包即可生成一个滤子。&lt;/li>
+&lt;/ul>
+&lt;div class="math-box math-example">
+ &lt;div class="math-box-title">例子&lt;/div>
+ &lt;div class="math-box-content">&lt;p>&lt;strong>平凡滤子：&lt;/strong> 任意集合 $X$ 上的最小滤子 $\{X\}$。&lt;/p>
+&lt;p>&lt;strong>尾段滤子：&lt;/strong> 对于空间 $X$ 中的序列 $\{x_n\}$：&lt;/p>
+$$\mathcal{E}_{x_n} = \{A \subseteq X \mid \exists\, N \text{ 使得对所有 } n \geq N \text{ 有 } x_n \in A\}$$&lt;p>&lt;strong>反例：&lt;/strong> 点 $x$ 的开邻域族构成滤子基，但不是真滤子。&lt;/p></description></item></channel></rss>
