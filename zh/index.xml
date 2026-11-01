@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>林睿军 - 数学 on Ruijun Lin's Space</title><link>https://ruijun-lin.github.io/zh/</link><description>Recent content in 林睿军 - 数学 on Ruijun Lin's Space</description><generator>Hugo</generator><language>zh-hans</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ruijun-lin.github.io/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>关于我 - 林睿军 - 数学</title><link>https://ruijun-lin.github.io/zh/about/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ruijun-lin.github.io/zh/about/</guid><description>&lt;p>我是&lt;strong>澳大利亚伍伦贡大学&lt;/strong>&lt;a href="https://www.uow.edu.au/engineering-information-sciences/school-of-mathematics-and-physics/">数学与物理学院&lt;/a>的博士研究生，同时也是悉尼&lt;strong>新南威尔士大学&lt;/strong>&lt;a href="https://www.unsw.edu.au/science/our-schools/maths">数学与统计学院&lt;/a>的访问学生；导师为&lt;a href="https://www.aidansims.com/">Aidan Sims&lt;/a>教授。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>林睿军 - 数学 on Ruijun Lin's Space</title><link>https://ruijun-lin.github.io/zh/</link><description>Recent content in 林睿军 - 数学 on Ruijun Lin's Space</description><generator>Hugo</generator><language>zh-hans</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ruijun-lin.github.io/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>单纯同调与 Dold-Kan 对应</title><link>https://ruijun-lin.github.io/zh/simplicial_dold_kan_correspondence/</link><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><guid>https://ruijun-lin.github.io/zh/simplicial_dold_kan_correspondence/</guid><description>&lt;h3 id="引言">引言&lt;/h3>
+&lt;p>一个单纯集 $X$ 可以给出几种不同的链复形：使用全部单形的&lt;strong>非正规化链复形&lt;/strong> $\mathrm{C}_\bullet(X)$；商掉退化单形得到的&lt;strong>正规化链复形&lt;/strong> $N_\bullet(X)$；以及由面映射 $d_0, \ldots, d_{n-1}$ 的核所截出的子复形，即 &lt;strong>Moore 正规化链复形&lt;/strong> $N\mathrm{C}_\bullet(X)$。本文的目的是用一个初等且具体的论证说明：这些链复形携带相同的同调信息。&lt;/p>
+&lt;hr>
+&lt;h3 id="单纯对象">单纯对象&lt;/h3>
+&lt;p>我们回顾单纯形范畴与单纯对象的定义。&lt;/p>
+&lt;div class="math-box math-definition">
+ &lt;div class="math-box-title">定义&amp;ensp;(单纯形范畴)&lt;/div>
+ &lt;div class="math-box-content">&lt;p>&lt;strong>单纯形范畴（simplex category）&lt;/strong> $\Delta$ 是这样一个范畴：其对象为有限序数
+&lt;/p>
+$$[n] := \{0 &lt; 1 &lt; \cdots &lt; n\}, \quad n \geq 0,$$&lt;p>
+其态射为保序（单调不减）映射 $[m] \to [n]$。
+其中，&lt;strong>余面映射（coface maps）&lt;/strong> $d^i \colon [n-1] \to [n]$（$0 \leq i \leq n$）是唯一一个不取到 $i$ 的单射；&lt;strong>余退化映射（codegeneracy maps）&lt;/strong> $s^i \colon [n+1] \to [n]$（$0 \leq i \leq n$）是唯一一个将 $i$ 与 $i+1$ 都映到 $i$ 的满射。&lt;/p>
+&lt;/div>
+&lt;/div>
+
+&lt;div class="math-box math-definition">
+ &lt;div class="math-box-title">定义&amp;ensp;(单纯对象)&lt;/div>
+ &lt;div class="math-box-content">&lt;p>设 $\mathbf{C}$ 为范畴。&lt;strong>$\mathbf{C}$ 中的单纯对象（simplicial object）&lt;/strong> 是一个函子 $X \colon \Delta^{\mathrm{op}} \to \mathbf{C}$。记 $X_n := X([n])$，称为 &lt;strong>$n$-单形对象&lt;/strong>。诱导的态射
+&lt;/p></description></item><item><title>关于我 - 林睿军 - 数学</title><link>https://ruijun-lin.github.io/zh/about/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ruijun-lin.github.io/zh/about/</guid><description>&lt;p>我是&lt;strong>澳大利亚伍伦贡大学&lt;/strong>&lt;a href="https://www.uow.edu.au/engineering-information-sciences/school-of-mathematics-and-physics/">数学与物理学院&lt;/a>的博士研究生，同时也是悉尼&lt;strong>新南威尔士大学&lt;/strong>&lt;a href="https://www.unsw.edu.au/science/our-schools/maths">数学与统计学院&lt;/a>的访问学生；导师为&lt;a href="https://www.aidansims.com/">Aidan Sims&lt;/a>教授。&lt;/p>
 &lt;p>我在哥本哈根大学获得硕士学位，硕士论文导师为&lt;a href="https://web.math.ku.dk/~eilers/">Søren Eilers&lt;/a>教授，其研究领域主要为算子代数及相关方向，尤其是图C*-代数。&lt;/p>
 &lt;p>我在深圳南方科技大学获得本科学位。本科学术导师为&lt;a href="https://yifeizhu.github.io/">朱一飞&lt;/a>，研究方向为代数拓扑及相关领域；本科毕业论文导师为&lt;a href="https://math.sustech.edu.cn/c/liubochen?lang=en">刘博辰&lt;/a>，研究方向为调和分析、几何测度论与组合数学。&lt;/p>
 &lt;h2 id="研究方向">研究方向&lt;/h2>
