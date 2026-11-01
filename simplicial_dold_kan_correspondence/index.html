@@ -45,8 +45,7 @@ $$<p>Here the first sum vanishes because $d_k(x) = 0$ for $k \leqslant j-1$, the
 \begin{aligned}
 \mathrm{C}_n = N_0\mathrm{C}_n
 & \;\underset{i_0}{\overset{f_0}{\rightleftarrows}}\; N_1\mathrm{C}_n
-\;\underset{i_1}{\overset{f_1}{\rightleftarrows}}\; N_2\mathrm{C}_n \\
-& \;\underset{i_2}{\overset{f_2}{\rightleftarrows}}\; \cdots
+\;\underset{i_1}{\overset{f_1}{\rightleftarrows}}\; N_2\mathrm{C}_n \;\underset{i_2}{\overset{f_2}{\rightleftarrows}}\; \cdots
 \;\underset{i_{n-2}}{\overset{f_{n-2}}{\rightleftarrows}}\; N_{n-1}\mathrm{C}_n = N\mathrm{C}_n
 \end{aligned}
 $$<div class="math-box math-theorem"><div class=math-box-title>Theorem</div><div class=math-box-content>The unnormalized chain complex $\mathrm{C}_\bullet$ is homotopy equivalent to the Moore normalized chain complex $N\mathrm{C}_\bullet$.</div></div><p>Furthermore, for each $j$, the composition $f_{j-1} \cdots f_0$ is a projection from $\mathrm{C}_n$ onto $N_j\mathrm{C}_n$. We write</p>$$\mathrm{C}_n = N_j\mathrm{C}_n \oplus D_j\mathrm{C}_n, \quad j = 0,1,\ldots, n-1,$$<p>where $D_j\mathrm{C}_n = \ker(f_{j-1}\cdots f_0)$ and $N_j\mathrm{C}_n \cap D_j\mathrm{C}_n = \{0\}$. In particular, $f_{n-2} \cdots f_1 f_0$ is a projection from $\mathrm{C}_n$ onto $N\mathrm{C}_n$, and the complementary subgroup is just $\ker(f_{n-2} \cdots f_1 f_0)$.</p><div class="math-box math-theorem"><div class=math-box-title>Lemma</div><div class=math-box-content>$\ker(f_{n-2} \cdots f_1 f_0) = D_n$, where $D_n$ is the degenerate subgroup.</div></div><div class="math-box math-proof"><div class=math-box-title>Proof</div><div class=math-box-content><p>We first prove $D_n \subseteq \ker(f_{n-2} \cdots f_1 f_0)$ by repeatedly using the simplicial identities. If $s_j(y) \in D_n$, then</p>$$f_j(s_j(y)) = s_j(y) - s_jd_j(s_j(y)) = s_j(y) - s_j(y) = 0,$$<p>and for $j \geqslant i + 1$,</p>$$
