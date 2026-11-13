@@ -211,6 +211,7 @@ a:hover {
 }
 
 /* Weather widget */
+
 .weather-widget {
   margin-top: 0.8rem;
   text-align: center;
@@ -219,52 +220,15 @@ a:hover {
   letter-spacing: 0.03em;
 }
 
-.wc-msg {
-  font-size: 0.82rem;
-  opacity: 0.8;
-}
-
-.wc-main {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.55em;
-}
-
-.wc-icon {
-  font-size: 2.2rem;
-  line-height: 1;
-}
-
-.wc-info {
-  text-align: left;
-}
-
-.wc-top {
-  display: flex;
-  align-items: baseline;
-  gap: 0.35em;
-}
-
-.wc-temp {
-  font-size: 1.35rem;
-  font-weight: 600;
-  font-variant-numeric: tabular-nums;
-}
-
-.wc-desc {
-  font-size: 0.82rem;
-}
-
-.wc-sub {
-  font-size: 0.76rem;
-  opacity: 0.8;
-  margin-top: 0.1em;
-}
-
-.wc-dot {
-  margin: 0 0.05em;
-}
-
+.wc-msg { font-size: 0.82rem; opacity: 0.8; }
+.wc-main { display: inline-flex; align-items: center; gap: 0.55em; }
+.wc-icon { font-size: 2.2rem; line-height: 1; }
+.wc-info { text-align: left; }
+.wc-top { display: flex; align-items: baseline; gap: 0.35em; }
+.wc-temp { font-size: 1.35rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+.wc-desc { font-size: 0.82rem; }
+.wc-sub { font-size: 0.76rem; opacity: 0.8; margin-top: 0.1em; }
+.wc-dot { margin: 0 0.05em; }
 
 .map-widget {
   width: min(320px, 90%);
@@ -273,7 +237,6 @@ a:hover {
   border-radius: 10px;
   overflow: hidden;
   border: 1px solid rgba(128, 128, 128, 0.3);
-  opacity: 0.9;
 }
 
 .map-dot {
@@ -283,4 +246,25 @@ a:hover {
   background: #1A3A6E;
   border: 2px solid #fff;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+}
+
+/* Background texture: faint famous math formulas + soft glow at the top (works in light and dark mode) */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image:
+    radial-gradient(ellipse 70% 40% at 50% 0%, rgba(60, 110, 200, 0.12), transparent 70%),
+    url("/svg/math-pattern.svg");
+  background-size: 100% 100%, 700px 720px;
+  opacity: 0.35;
+  -webkit-mask-image: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.75) 100%);
+  mask-image: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.75) 100%);
+}
+
+/* Softer page background in light mode (theme default is pure white); dark mode uses its own variable */
+:root {
+  --light-primary-color: 240, 243, 247;
 }
